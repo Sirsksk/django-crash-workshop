@@ -38,11 +38,11 @@
 * Agrego mi app “movies” a installed apps
 
 ### Corremos el servidor de Django
-(workshop)$: python manage.py runserver
+(workshop)$: `python manage.py runserver`
 * Lo terminamos con Ctrl + C
 
 ### Creamos un superusuario
-(workshop)$: python manage.py createsuperuser
+(workshop)$: `python manage.py createsuperuser`
 
 ### Creamos la primera vista “home” en nuestro archivo views.py de la app “movies”
   
